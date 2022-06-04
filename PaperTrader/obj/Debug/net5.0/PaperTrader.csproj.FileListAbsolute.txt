@@ -1,0 +1,16 @@
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\bin\Debug\net5.0\PaperTrader.exe
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\bin\Debug\net5.0\PaperTrader.deps.json
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\bin\Debug\net5.0\PaperTrader.runtimeconfig.json
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\bin\Debug\net5.0\PaperTrader.runtimeconfig.dev.json
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\bin\Debug\net5.0\PaperTrader.dll
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\bin\Debug\net5.0\ref\PaperTrader.dll
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\bin\Debug\net5.0\PaperTrader.pdb
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\obj\Debug\net5.0\PaperTrader.csproj.AssemblyReference.cache
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\obj\Debug\net5.0\PaperTrader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\obj\Debug\net5.0\PaperTrader.AssemblyInfoInputs.cache
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\obj\Debug\net5.0\PaperTrader.AssemblyInfo.cs
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\obj\Debug\net5.0\PaperTrader.csproj.CoreCompileInputs.cache
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\obj\Debug\net5.0\PaperTrader.dll
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\obj\Debug\net5.0\ref\PaperTrader.dll
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\obj\Debug\net5.0\PaperTrader.pdb
+C:\Users\Cave Johnson\Desktop\VS#\PaperTrader\PaperTrader\obj\Debug\net5.0\PaperTrader.genruntimeconfig.cache
