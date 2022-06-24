@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "I6MQJm7aLLAAvCgdK/baE+WMvLh63y5woaRijkVDseeDiTWVc4ZqhxNx+zIxYianNSLHUb+H3nlTU5LC8MIAPQ==",
+  "dgSpecHash": "BDaqwWtb4sHbJbH/0epGOe3MZLVwHQFb0305Nxv+gSZF3fR3SfT5nyOvvaokmpy7wMaucWpp0+MVioFvmZ0Ebg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cave Johnson\\Desktop\\VS#\\PaperTrader\\PaperTrader\\PaperTrader.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Cave Johnson\\.nuget\\packages\\awssdk.core\\3.7.11.14\\awssdk.core.3.7.11.14.nupkg.sha512",
+    "C:\\Users\\Cave Johnson\\.nuget\\packages\\awssdk.simpleemail\\3.7.0.170\\awssdk.simpleemail.3.7.0.170.nupkg.sha512"
+  ],
   "logs": []
 }

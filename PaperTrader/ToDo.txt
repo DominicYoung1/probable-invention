@@ -1,2 +1,5 @@
-﻿1. Create the math brain.
- a. Math brain fuction that takes in a range of inputs (average) and has the ability to call one or more functions when certain conditions are met (may need to be called frequently)
+﻿1. Begin the process of building the funcitons that will serve as the brain for the auto email bot (that works of a time schedule).
+	1. BE ABLE TO SEND AN EMAIL.
+	a) probably going to need to interact with different popular email provider api's.
+	b) going to need to have a way to select from a group of user emails the correct one.
+	c) needs to be able to print or send a confirmation of the sent email back to the system.

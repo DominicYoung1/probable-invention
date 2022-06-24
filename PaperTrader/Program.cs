@@ -9,6 +9,7 @@ namespace PaperTrader
     {
         static void Main(string[] args)
         {
+            EmailBrain.Run();
             Console.WriteLine("Hello World!");
             List<DataBasket> stock = new List<DataBasket>();
             MathBrain brain = new MathBrain(stock);
