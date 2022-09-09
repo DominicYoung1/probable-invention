@@ -1,5 +1,22 @@
 ﻿1. Begin the process of building the funcitons that will serve as the brain for the auto email bot (that works of a time schedule).
 	1. BE ABLE TO SEND AN EMAIL.
-	a) probably going to need to interact with different popular email provider api's.
-	b) going to need to have a way to select from a group of user emails the correct one.
-	c) needs to be able to print or send a confirmation of the sent email back to the system.
+		a) probably going to need to interact with different popular email provider api's.
+		b) going to need to have a way to select from a group of user emails the correct one.
+		c) needs to be able to print or send a confirmation of the sent email back to the system.
+2. Revamp the structure of the code so that it can be built back off of easier.
+	1. Structure of existing.
+		a) take a look at the current user, data basket and data value classes and rename where needed.
+		b) there needs to be a class that can act as the 'stock' and hold its: name, value, current price, prices on average for previous 12 months,
+			and average change in value as a whole during previous year (OPTIONAL).
+3. Test the Math brain.
+	1. Sim activity.
+		a) Be able to simulate the inpection of a stock in its entirety and print.
+		b) Test buying and selling, and have it reflect in the users portfolio (collection).
+4. Backend Begins.
+	1. Create a SQL or mongoDB database (SQL) that can be used to hold the user and the users info.
+		a) Will need to be able to find and select specific users based on a number of var's (stock name or email maybe?).
+	2. The eventual addition of a 'followed' or 'tracked' catagory. Maybe attached to the user? Maybe its own 'part' only tracks stock data.
+5. Emails upon transaction completion.
+	1. Have a test that simulates and purchase and selling of a stock from the users collection. Upon completion use the tool created in (OBJ 1.),
+		to send a email to the correct user and return confirmation that the email was sent succesfully. (Assumed use of the backend created in
+			OBJ 4 to identify and grab the correct user based on the user info.)

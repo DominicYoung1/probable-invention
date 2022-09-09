@@ -19,7 +19,7 @@ namespace PaperTrader
             list = l;
         }
 
-        public bool DecideShouldBuy(List<DataBasket> stockInfo) //this used to be called fuckyoujeffrey
+        public bool DecideShouldBuy(List<DataBasket> stockInfo)
         {
             
             double initalValue = 0;
