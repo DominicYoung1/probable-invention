@@ -1,0 +1,2 @@
+*the stock needs to have values that can be altered specifically. this means they all need to be members on a class? maybe use an interface? 
+

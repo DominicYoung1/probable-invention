@@ -1,0 +1,31 @@
+* to index or choose which members of the stock are touched.
+* all the members need to be public. or get set.
+* ease of scaffolding.
+
+
+User journey: 1. Prompt the user to login (used to identify the user in a database where their portfolio and all its info are storied.
+				 a1) user prefrences this will include things like, daily, monthly spending limits, single transaction limits. freqency of email updates.
+				 a) the user has a wallet, that has funds it it.			
+			  2. View: see the balance, see the contents ie what stocks they have and in what quantity. 
+			  3. Alter: buy or sell set margins for certian stocks that will allow the program to buy or sell automaticlly.
+				a) a list of stocks the info that would be visible to the user is the same as what would be in there portfoilio minus the shares owned and total value.
+				b) they would click on a stock and generate a page with only that stocks information and on that page would be the option to either buy then, or set a price margin or set point
+				for an autobuy.
+				Ie if dom is looking at google, and sets a margin for the price to dip by a percentage or a hard number. the system would auto buy. and it would work for same for 
+				selling.
+				c) when the system is set to make a purchase based on a money amount.
+				d)
+				
+
+
+
+
+MVP REQ'S: 1. Users need to be able to login.
+		    a) system will need to track their wallet (money and spending limits).
+			b) system portfolio (what they have, how much, what its worth, ect..).
+			c) system needs to be able to track stock (price ect..).
+			d) system needs to be able to compare info of stock with user spending habbits and change the portfolio accordinglly.
+
+
+
+Data Model: SEE MODEL IN DRAWIO

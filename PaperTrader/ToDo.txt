@@ -6,7 +6,7 @@
 2. Revamp the structure of the code so that it can be built back off of easier.
 	1. Structure of existing.
 		a) take a look at the current user, data basket and data value classes and rename where needed.
-		b) there needs to be a class that can act as the 'stock' and hold its: name, value, current price, prices on average for previous 12 months,
+		b) there needs to be a class that can act as the 'stock' and hold its: name, valu/current price, prices on average for previous 12 months,
 			and average change in value as a whole during previous year (OPTIONAL).
 3. Test the Math brain.
 	1. Sim activity.
